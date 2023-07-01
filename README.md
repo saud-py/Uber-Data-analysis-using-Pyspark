@@ -24,15 +24,15 @@ Before running this project, ensure you have the following prerequisites install
 
 2. Install the required dependencies:
 
-```bash
-pip install pyspark
-```
+   ```bash
+   pip install pyspark
+   ```
 
 3. Start Jupyter Notebook (if using):
 
-```bash
-jupyter notebook
-```
+   ```bash
+   jupyter notebook
+   ```
 
 4. Open the Uber_Data_Analysis.ipynb notebook to begin the analysis.
 
